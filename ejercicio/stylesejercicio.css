@@ -1,0 +1,19 @@
+.circulo {
+    
+    background: red;
+    border-radius: 4rem;
+    height: 8rem;
+    width: 8rem; 
+}
+.cuadrado {
+    width: 8rem; 
+    height: 8rem; 
+    background: green;
+}
+.triangulo {
+    width: 0; 
+    height: 0; 
+    border-right: 5rem solid transparent;
+    border-left: 13rem solid transparent;
+    border-bottom: 7rem solid pink;
+}
